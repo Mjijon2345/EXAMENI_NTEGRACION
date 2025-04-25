@@ -1,0 +1,4 @@
+id,laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,101,2001,Hemograma,Normal,2025-04-10
+2,102,2002,Glucosa,Elevado,2025-04-11
+3,103,2003,Colesterol,Normal,2025-04-12

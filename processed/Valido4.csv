@@ -1,0 +1,3 @@
+id,laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+4,104,2004,Urea,Alta,2025-04-13
+5,105,2005,Creatinina,Baja,2025-04-14
